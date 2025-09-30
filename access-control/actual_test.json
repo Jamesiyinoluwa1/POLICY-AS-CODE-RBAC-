@@ -1,0 +1,8 @@
+{
+  "user": {
+    "name": "alice@company.com",
+    "role": "admin"
+},
+  "action": "delete",
+  "resource": "production"
+}
