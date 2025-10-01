@@ -1,4 +1,4 @@
-POLICY-AS-CODE-RBAC
+POLICY-AS-CODE-RBAC:
 This repository implements Policy as Code using Open Policy Agent (OPA) and Gatekeeper to enforce Role-Based Access Control (RBAC) in Kubernetes environments.
 
 Features:
